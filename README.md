@@ -4,7 +4,7 @@ Here is a simple guide to get you started with indepth customization of your [Py
 > First and foremost, if you are in our [discord](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins or themes. I wont explain that here, so please understand this first.
 
 > [!IMPORTANT]
-> If you used [cloudsync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should be reinstalling it and import your plugins. I simply recommend looking at this guide for new ones you may like, and of course which are broken in case you have issues. (provided below)
+> If you used [cloudsync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. I simply recommend looking at this guide for new ones you may like, and of course which are broken in case you have issues. (provided below)
 
 # Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
