@@ -23,9 +23,7 @@ So first thing you should do is install some very neat plugins.
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
 The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/).
-
 All of these will make your chatbox not look like an absolute mess. 
-
 (I'm looking at you, discord) 
 
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
