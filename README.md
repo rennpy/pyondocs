@@ -61,7 +61,7 @@ If you *are* a theme developer, then you should look at the [theme documentation
 And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new icons discord change/add <br>
 You should also join the discord if you haven't already and ask in #theme-dev if you need help with anything.
 
-I also first recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
+Otherwise, I first suggest that you try [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
 You can be sure it will always work for most recent versions of Pyoncord, naturally.
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
