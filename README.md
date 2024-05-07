@@ -5,6 +5,8 @@ here is a guide to get you started with indepth customization of your pyoncord i
 
 ## step 1
 
-Okay, so first thing you should do is install some very important plugins. Use the plugin web browser on the discord for this. The first one is hidegiftbutton (who uses those anyway) and optionally [hideappbutton](https://rico040.github.io/bunny-plugins/hideappbutton/) themes+ from 
+Okay, so first thing you should do is install some very important plugins. Use the plugin web browser on the discord for this. The first one is [hidegiftbutton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) (who uses those anyway) and optionally [hideappbutton](https://rico040.github.io/bunny-plugins/hideappbutton/). Both of these make your chatbox cleaner. 
+
+themes+ from 
 
 
