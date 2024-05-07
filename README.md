@@ -7,7 +7,7 @@ Here is a simple guide to get you started with indepth customization of your pyo
 > If you used [cloudsync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on vendetta, I recommend reinstalling that to get what you had prior. I simply recommend looking at this guide for new plugins you may like, and of course those which are broken. (provided below)
 
 # Broken plugins
-here is an extensive list of every plugin from vendetta you should unfortunately uninstall.
+This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 
 Confirmed broken plugins:
 RolesColourEverywhere (Show in members list setting specifically causes crash), Custom Timestamps (causes crash), FileContentPreview (causes crash), Platform indicator(causes crash in DMs), Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy) Angel utils (causes a crash when holding down on messages)
