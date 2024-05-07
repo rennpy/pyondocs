@@ -22,7 +22,7 @@ So first thing you should do is install some very neat plugins.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
-The first one is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) (who uses those anyway), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/).
+The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/).
 
 All of these will make your chatbox not look like an absolute mess. 
 
