@@ -41,7 +41,7 @@ Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta
 
 Lastly, for **better privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/clean-urls/), [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) and [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/)
 
-# Additional things
+### Additional plugins
 
 The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
 
