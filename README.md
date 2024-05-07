@@ -30,6 +30,9 @@ All of these will make your chatbox not look like an absolute mess.
 (I'm looking at you, discord) 
 
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
+![image](https://github.com/rennpy/pyonguide/assets/158360149/62a13fd6-0e66-429c-8c5b-9da65635c1a6)
+> preview of pyontheme using fixed iconpack
+
 
 For **more privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/clean-urls/), [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) and [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/)
 
@@ -43,6 +46,7 @@ I know all of you wanted these so, why not?
 Lastly, I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
-![image](https://github.com/rennpy/pyonguide/assets/158360149/6d366579-2f86-444b-839f-1c7a7a5db474)
+
+
 
 
