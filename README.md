@@ -31,6 +31,7 @@ Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta
 For **more privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/clean-urls/), [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) and [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/)
 
 **FREE nitro** stuff which is [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/), [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) and [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/)
+
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
 
