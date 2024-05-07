@@ -32,7 +32,7 @@ For **more privacy**, I recommend another set of plugins, being [CleanUrls](http
 
 Another set of plugins I will show here is for **FREE nitro**. The list consists of [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/), [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) and finally [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/)
 
-I know all of you wanted these, so why not put them here.
+I know all of you wanted these so, why not?
 
 Lastly, I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 
