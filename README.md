@@ -25,7 +25,7 @@ Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this.
 The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/).
 All of these will make your chatbox not look like an absolute mess. 
 
-![image](https://github.com/rennpy/pyonguide/assets/158360149/73872340-4687-41b4-9ce2-25ce0d8a05ba)
+<img src="https://github.com/rennpy/pyonguide/assets/158360149/73872340-4687-41b4-9ce2-25ce0d8a05ba" width="100" height="100">
 
 (I'm looking at you, discord) 
 
