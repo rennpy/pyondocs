@@ -1,7 +1,7 @@
 # Pyoncord-guide
 Here is an organized guide to get you started with in-depth customization of your [Pyoncord](https://github.com/pyoncord/Bunny) install.
 
-> First and foremost, if you are on our [discord server](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins or themes. I wont explain that here, so please understand this first.
+> First and foremost, if you are on our [discord server](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins and/or themes. I wont explain that here, so please understand this first.
 
 > [!IMPORTANT]
 > If you used [cloudsync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. I simply recommend looking at this guide for new ones you may like, and if a plugin is broken in case you have issues. (list provided below)
