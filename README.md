@@ -58,9 +58,10 @@ I know all of you wanted these so, why not?
 Here you can find most of the themes working with pyoncord (more will be added in the future)
 
 [Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka <br>
-[Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle
+[Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle <br>
+[Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769 <br>
 [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) by maggie.pi (sorta outdated, just a little)
-[Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769
+
 
 I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
 Also, you can be sure it will always work for most recent versions of Pyoncord, naturally.
