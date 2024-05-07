@@ -69,7 +69,7 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769 <br>
 [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) by maggie.pi (sorta outdated, just a little)
 
-## For theme devs
+### For theme devs
 
 If you are a theme developer, then you should look at the [theme documentation](https://docs.riichi.tech/) by riichi (a little outdated) <br>
 And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new icons discord change/add <br>
