@@ -67,7 +67,7 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 [Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka <br>
 [Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle <br>
 [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769 <br>
-[Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) by maggie.pi (outdated, just a little)
+[Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) by maggie.pi (little of it needs fixing)
 
 ### For theme developers
 
