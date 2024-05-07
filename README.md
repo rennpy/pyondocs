@@ -26,6 +26,7 @@ The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasy
 All of these will make your chatbox not look like an absolute mess. 
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/73872340-4687-41b4-9ce2-25ce0d8a05ba)
+
 (I'm looking at you, discord) 
 
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
