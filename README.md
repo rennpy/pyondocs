@@ -24,7 +24,7 @@ Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this.
 
 The first one is [hidegiftbutton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) (who uses those anyway) and [hideappbutton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally). Both of these make your chatbox cleaner. 
 
-Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for theme enjoyers. If you want a way to setup iconpacks for any theme, some are included within themes + or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
+Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for theme enjoyers. If you want a way to setup iconpacks for any theme, some are included within themes + or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default).
 
 I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 here is the link to the [github page](https://github.com/rennpy/pyontheme) as well for a preview.
