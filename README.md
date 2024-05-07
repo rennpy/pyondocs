@@ -27,6 +27,8 @@ The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasy
 All of these make the **chatbox** not an absolute mess. <br>
 You can also add [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.github.io/VendettaPlugins/ChatboxAvatar/) for a pfp and easy way to your profile within the chatbox.
 
+> preview of the result (with chatbox avatar) and custom iconpack
+
 <img src="https://github.com/rennpy/pyonguide/assets/158360149/f610bc0b-6183-453e-b1b8-6be19c0a4a29" width="700" height="100">
 
 (I'm looking at you, discord) 
