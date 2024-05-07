@@ -58,7 +58,7 @@ I know all of you wanted these so, why not?
 Here you can find most of the themes working with pyoncord (more will be added in the future)
 
 I also first recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
-Also, you can be sure it will always work for most recent versions of Pyoncord, naturally.
+You can be sure it will always work for most recent versions of Pyoncord, naturally.
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
 
