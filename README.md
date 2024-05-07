@@ -51,7 +51,7 @@ If you want brainrot you can use [ReviewDB](https://janisslsm.github.io/vdplugin
 
 I know all of you wanted these so, why not?
 
-I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎)
+I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
 Also, you can be sure it will always work for most recent versions of pyoncord, naturally.
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
