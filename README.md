@@ -10,8 +10,10 @@ Here is an organized guide to get you started with in-depth customization of you
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 
 Confirmed broken plugins:
+
 Causes crash-
 RolesColourEverywhere (Show in members list setting specifically causes crash), Custom Timestamps (causes crash), FileContentPreview (causes crash), Platform indicator(causes crash in DMs), Angel utils (causes a crash when holding down on messages)
+
 Dosen't work-
 Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy)
 ## #1
