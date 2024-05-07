@@ -17,7 +17,7 @@ RolesColourEverywhere (Show in members list setting specifically causes crash), 
 
 Doesn't work-
 Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy) <br>
-## Cool plugins
+## Cool plugin guide thing
 
 My favorite (and necessary) plugins to enjoy bnuuycord
 
