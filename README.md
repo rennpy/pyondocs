@@ -18,7 +18,7 @@ Dosen't work-
 Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy)
 ## #1
 
-So first thing you should do is install the most important plugins:
+So the first thing you should do is install the most important plugins:
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
