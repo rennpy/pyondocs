@@ -33,7 +33,7 @@ You can also add [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.g
 
 *(I'm looking at you, discord) 
 
-Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
+Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must-have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
 
 > preview of pyontheme using fixed iconpack
 
