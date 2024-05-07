@@ -57,7 +57,7 @@ I know all of you wanted these so, why not?
 
 Here you can find most of the themes working with pyoncord (more will be added in the future) and some quick links for theme developers.
 
-If you *are* a theme developer, then you should look at [theme docs](https://docs.riichi.tech/) (a little outdated) <br>
+If you *are* a theme developer, then you should look at [theme docs](https://docs.riichi.tech/) by riichi (a little outdated) <br>
 And, most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new icons discord change/add <br>
 You should also join the discord if you haven't already and ask in #theme-dev if you need help with anything.
 
