@@ -29,7 +29,7 @@ You can also add [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.g
 
 > preview of the result (with chatbox avatar) and custom iconpack
 
-<img src="https://github.com/rennpy/pyonguide/assets/158360149/f610bc0b-6183-453e-b1b8-6be19c0a4a29" width="700" height="50">
+<img src="https://github.com/rennpy/pyonguide/assets/158360149/f610bc0b-6183-453e-b1b8-6be19c0a4a29" width="600" height="50">
 
 *(I'm looking at you, discord) 
 
