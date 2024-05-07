@@ -39,7 +39,7 @@ For **more privacy**, I recommend another set of plugins, being [CleanUrls](http
 
 # Additional things
 
-The rest of these dont matter as much, but I'll still list them here, they deserve it.
+The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
 
 **FREE nitro** stuff which is [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/), [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) and [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/)
 
