@@ -11,6 +11,7 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 
 Confirmed broken plugins:
 
+
 Causes crash-
 RolesColourEverywhere (Show in members list setting specifically causes crash), Custom Timestamps (causes crash), FileContentPreview (causes crash), Platform indicator(causes crash in DMs), Angel utils (causes crash when holding down messages)
 
@@ -26,7 +27,7 @@ The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasy
 All of these make the **chatbox** not an absolute mess. <br>
 You can also add [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.github.io/VendettaPlugins/ChatboxAvatar/) for a pfp and easy way to your profile within the chatbox.
 
-<img src="https://github.com/rennpy/pyonguide/assets/158360149/73872340-4687-41b4-9ce2-25ce0d8a05ba" width="600" height="100">
+<img src="https://github.com/rennpy/pyonguide/assets/158360149/f610bc0b-6183-453e-b1b8-6be19c0a4a29" width="700" height="100">
 
 (I'm looking at you, discord) 
 
