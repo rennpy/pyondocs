@@ -34,6 +34,7 @@ For **more privacy**, I recommend another set of plugins, being [CleanUrls](http
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
 
+
 I know all of you wanted these so, why not?
 
 Lastly, I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
