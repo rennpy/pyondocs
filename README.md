@@ -32,5 +32,5 @@ Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta
 
 I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 
-Here is the link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
+Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
 
