@@ -27,5 +27,6 @@ The first one is [hidegiftbutton](https://vd-plugins.github.io/proxy/amsyarasyiq
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for theme enjoyers. If you want a way to setup iconpacks for any theme, some are included within themes + or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default).
 
 I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
-here is the link to the [github page](https://github.com/rennpy/pyontheme) as well for a preview.
+
+Here is the link to the [github page](https://github.com/rennpy/pyontheme) as well for a preview.
 
