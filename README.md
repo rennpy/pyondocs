@@ -13,10 +13,10 @@ Confirmed broken plugins:
 
 
 Causes crashing-
-RolesColourEverywhere (Show in members list setting specifically causes crash), Custom Timestamps (causes crash), FileContentPreview (causes crash), Platform indicator(causes crash in DMs), Angel utils (causes crash when holding down messages)
+RolesColourEverywhere (Show in members list setting specifically causes crash), CustomTimestamps (causes crash), FileContentPreview (causes crash), PlatformIndicators (causes crash in DMs), Angelutils (causes crash when holding down messages)
 
 Doesn't work-
-Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy) <br>
+CustomUserTags-cuc, CustomTags, Fakeavatar, Betterfolders, ReverseImageSearch, Picturelinks, HideServers, AlwaysAnimate, NoCompression, SquareProfilePics, localpins, PinSettings, SplitMessages, realmoji, stealmoji, systeminfo, messagelogger (buggy), nodelete (buggy) <br>
 ## Plugin guide
 
 My favorite (and necessary) plugins to enjoy bnuuycord
