@@ -57,7 +57,7 @@ I know all of you wanted these so, why not?
 
 Here you can find most of the themes working with pyoncord (more will be added in the future)
 
-[Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka
+[Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka <br>
 [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) (sorta outdated, just a little) by maggie.pi
 
 I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
