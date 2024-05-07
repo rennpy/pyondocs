@@ -55,7 +55,7 @@ I know all of you wanted these so, why not?
 
 ## Theme guide 
 
-Here you can find most of the themes working with pyoncord (more will be added in the future) and some quick links for theme developers.
+Here you can find most of the themes working with Pyoncord (more will be added in the future) and some quick links for theme developers.
 
 If this is your first time using a client mod, I suggest that you try [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
 You can be sure it will always work for most recent versions of Pyoncord, naturally.
