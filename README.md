@@ -43,4 +43,6 @@ I know all of you wanted these so, why not?
 Lastly, I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
+![image](https://github.com/rennpy/pyonguide/assets/158360149/6d366579-2f86-444b-839f-1c7a7a5db474)
+
 
