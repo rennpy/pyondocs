@@ -18,7 +18,7 @@ So first thing you should do is install some very neat plugins.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
-The first one is [hidegiftbutton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) (who uses those anyway) and optionally [hideappbutton](https://rico040.github.io/bunny-plugins/hideappbutton/). Both of these make your chatbox cleaner. 
+The first one is [hidegiftbutton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) (who uses those anyway) and [hideappbutton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally). Both of these make your chatbox cleaner. 
 
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for theme enjoyers. If you want a way to setup iconpacks for any theme, some are included within themes + or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
 
