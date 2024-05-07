@@ -19,7 +19,7 @@ Doesn't work-
 Custom User Tags-cuc, Custom Tags, Fakeavatar, Betterfolders, Reverse Image search, Picture links, HideServers, AlwaysAnimate, No compression, SquareProfilePics, local pins, Pin settings, split messages, realmoji, stealmoji, system info, message logger (buggy), nodelete (buggy) <br>
 ## Cool plugins
 
-A list of my favorite (and necessary) plugins to enjoy bnuuycord:
+My favorite (and necessary) plugins to enjoy bnuuycord
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
