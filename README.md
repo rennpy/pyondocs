@@ -28,9 +28,13 @@ All of these will make your chatbox not look like an absolute mess.
 
 Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta-plugins/BetterSearch/) is a must have for **theme enjoyers**. If you want a way to set-up iconpacks for any theme, some are included within the plugin settings or you can use [this link](https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/) for a fixed version of rosiecord plumpy! (dont use a suffix and remove the / at the start which themes+ weirdly does by default)
 
-For **more privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/clean-urls/), [HideTyping]() and [AnonymousFileNames]()
+For **more privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/clean-urls/), [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) and [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/)
 
-I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
+Another set of plugins I recommend is for **no nitro** plugins. The list consists of [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/), [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) and finally [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/)
+
+I know all of you wanted these, so why not put them here.
+
+Lastly, I also recommend trying [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎 also you can be sure it will always work for most recent version)
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
 
