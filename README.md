@@ -49,7 +49,7 @@ The rest of these dont matter as much, but I'll still list them here, since you 
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
-If you want brainrot you can use [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/), [UwUify](https://vd-plugins.github.io/proxy/exhq.github.io/vendetta/uwuify/) or [MessageLogger](https://angelix1.github.io/VP/message_logger/) (to stalk people)
+If you want brainrot you can use [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/), [UwUify](https://vd-plugins.github.io/proxy/exhq.github.io/vendetta/uwuify/) or even a buggy [MessageLogger](https://angelix1.github.io/VP/message_logger/) (to stalk people)
 
 I know all of you wanted these so, why not?
 
