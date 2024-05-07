@@ -1,5 +1,5 @@
 # Pyonguide
-here is a guide to get you started with indepth customization of your pyoncord install.  
+Here is a simple guide to get you started with indepth customization of your pyoncord install.  
 
 > First and foremost, if you are in our discord (.gg/pyoncord), look in the #faq channel for basic info on how to install plugins or themes. I wont explain that here, so please understand this first.
 
