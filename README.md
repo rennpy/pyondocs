@@ -13,9 +13,11 @@ Confirmed broken plugins:
 
 
 Causes crashing-
+
 RolesColourEverywhere (Show in members list setting specifically causes crash), CustomTimestamps (causes crash), FileContentPreview (causes crash), PlatformIndicators (causes crash in DMs) and other EOL'd plugins
 
 Doesn't work-
+
 CustomUserTags-cuc, CustomTags, Fakeavatar, Betterfolders, ReverseImageSearch, Picturelinks, HideServers, AlwaysAnimate, NoCompression, SquareProfilePics, localpins, PinSettings, SplitMessages, realmoji, stealmoji, systeminfo, messagelogger (buggy), nodelete (buggy) <br>
 ## Plugin guide
 
