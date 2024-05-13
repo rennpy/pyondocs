@@ -1,5 +1,5 @@
 # Pyoncord Documentation
-[Pyoncord](https://github.com/pyoncord/Bunny) documentation to get you started with in-depth customization of your plugins and themes, + useful info for plugin/theme devs
+[Pyoncord](https://github.com/pyoncord/Bunny) documentation for info on everything plugin and theme related, + useful info for plugin/theme devs
 
 > [!NOTE] 
 > There is also a **complete list of compatible themes** with Pyoncord at the bottom of this  guide
