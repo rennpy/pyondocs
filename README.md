@@ -50,7 +50,13 @@ Lastly, for **better privacy**, I recommend another set of plugins, being [Clean
 
 The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
 
-**FREE nitro** stuff which is [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/), [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/), [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) and [Decor](https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/)
+**FREE nitro** stuff which is 
+Realmoji
+```
+function test() {
+  console.log("https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/");
+}
+ [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/), [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) and [Decor](https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/)
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
