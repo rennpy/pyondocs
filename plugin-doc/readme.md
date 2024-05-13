@@ -2,13 +2,11 @@
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Confirmed broken plugins: | Issue |
 | --------- | :----------------------- |
-|  | Main Backgrounds |
-| background | Main Backgrounds |
+| RolesColourEverywhere | Show in members list setting specifically causes crash |
+| CustomTimestamps | causes crash |
 
 
-Causes crashing-
 
-RolesColourEverywhere (Show in members list setting specifically causes crash), CustomTimestamps (causes crash) and other EOL'd plugins
 
 Doesn't work-
 
