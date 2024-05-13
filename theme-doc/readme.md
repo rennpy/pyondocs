@@ -11,9 +11,9 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 | Theme name/link | Author |
 | --------- | :----------------------- |
 | [Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) | FtVodka |
+| [Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json)  | Moodle |
 
-[Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka <br>
-[Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle <br>
+ <br>
 [RosieBlue](https://raw.githubusercontent.com/Moodzz1/DT/main/Vendetta/RosieBlue.json) by moodle <br>
 [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769 <br>
 [Catppuccin](https://github.com/catppuccin/vendetta) (link to all variants) <br>
