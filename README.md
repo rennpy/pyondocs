@@ -70,6 +70,7 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 [Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle <br>
 [RosieBlue](https://raw.githubusercontent.com/Moodzz1/DT/main/Vendetta/RosieBlue.json) by moodle <br>
 [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) by Lyntxrya#7769 <br>
+[Catppuccin](https://github.com/catppuccin/vendetta) (link to all variants)
 [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) by maggie.pi (little of it needs fixing)
 
 ### For theme developers
