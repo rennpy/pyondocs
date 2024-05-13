@@ -4,7 +4,25 @@ Confirmed broken plugins:
 | Plugin name | Issue |
 | --------- | :----------------------- |
 | RolesColourEverywhere | Show in members list setting specifically causes crash |
-| CustomTimestamps | causes crash |
+| CustomTimestamps | Causes crash |
+| CustomUserTags-cuc | Not working |
+| CustomTags | `` `` |
+| Fakeavatar | `` `` |
+| Betterfolders | `` `` |
+| ReverseImageSearch | `` `` |
+| HideServers | `` `` |
+| AlwaysAnimate | `` `` |
+| NoCompression | `` `` |
+| SquareProfilePics | `` `` |
+| LocalPins | `` `` |
+| PinSettings | `` `` |
+| SplitMessages | `` `` |
+| RealMoji | `` `` |
+| StealMoji | `` `` |
+| SystemInfo | `` `` |
+| MessageLogger | Buggy |
+| NoDelete | Buggy |
+
 
 
 
