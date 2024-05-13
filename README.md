@@ -4,8 +4,6 @@
 > [!NOTE] 
 > There is also a **complete list of compatible themes** with Pyoncord at the bottom of this  guide
 
-> First and foremost, if you are on the [discord server](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins and/or themes. It won't be explained here, so please make sure you did.
-
 
 # Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
@@ -25,7 +23,7 @@ CustomUserTags-cuc, CustomTags, Fakeavatar, Betterfolders, ReverseImageSearch, P
 > [!IMPORTANT]
 > If you used [CloudSync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. It is simply recommended looking at this guide for new ones you may like, and if a plugin is broken in case you have issues. (list provided below)
 
-My favorite (and necessary) plugins to enjoy bnuuycord
+> First and foremost, if you are on the [discord server](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins and/or themes. It won't be explained here, so please make sure you did.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
