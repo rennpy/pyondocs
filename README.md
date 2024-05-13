@@ -1,3 +1,20 @@
+.markup-docs > pre > .button-copy-code:hover {
+    @apply border-2 border-gray-600;
+    @apply bg-gray-200;
+}
+
+.markup-docs > pre > .button-copy-code:focus {
+    @apply bg-gray-300;
+}
+
+.copy-docs-icon {
+    fill: #0a001f;
+}
+
+.docs-copied-icon {
+    color: #148a25 !important;
+    fill: #148a25 !important;
+}
 # Pyoncord-guide
 Here is an organized guide to get you started with in-depth customization of your [Pyoncord](https://github.com/pyoncord/Bunny) install.
 
