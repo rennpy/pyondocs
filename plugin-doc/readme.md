@@ -2,7 +2,6 @@
 
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
-### Confirmed broken plugins:
 | Plugin name | Issue |
 | --------- | :----------------------- |
 | RolesColourEverywhere | Show in members list setting specifically causes crash |
