@@ -7,7 +7,10 @@ You can be sure it will always work for most recent versions of Pyoncord, natura
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
 
-**Theme list:**
+## Theme list
+| Theme name/link | Author |
+| --------- | :----------------------- |
+| [Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) | FtVodka |
 
 [Orchid's love](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Orchid.json) by ftvodka <br>
 [Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json) by moodle <br>
