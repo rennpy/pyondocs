@@ -21,7 +21,7 @@ Confirmed broken plugins:
 | StealMoji | "       " |
 | SystemInfo | "       " |
 | MessageLogger | Buggy |
-| NoDelete | Buggy |
+| NoDelete | "       " |
 
 
 
