@@ -37,4 +37,8 @@ Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta
 
 <img src="https://github.com/rennpy/pyonguide/assets/158360149/62a13fd6-0e66-429c-8c5b-9da65635c1a6" width="200" height="350"> <br>
 
-Lastly, for **better privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid
+Lastly, for **better privacy**, I recommend another set of plugins, being [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid/.xyz/clean-urls/), [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) and [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/)
+
+## Additional plugins
+
+The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
