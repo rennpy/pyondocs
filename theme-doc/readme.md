@@ -20,7 +20,7 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 ### For theme developers
 
 If you are a theme dev or want to try theme-making, you should look at the [theme docs](https://docs.riichi.tech/) from riichi (kinda outdated) <br>
-And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new strings, semantic keys, rawcolours and other strings along with icons discord changes or adds <br>
+And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new strings, semantic keys, raw colours and other strings along with icons discord changes or adds <br>
 You should also join the discord if you haven't already and ask in #theme-dev if you need help with anything.
 
 
