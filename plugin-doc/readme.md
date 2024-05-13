@@ -1,7 +1,7 @@
 # Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 Confirmed broken plugins:
-| Name | Issue |
+| Plugin name | Issue |
 | --------- | :----------------------- |
 | RolesColourEverywhere | Show in members list setting specifically causes crash |
 | CustomTimestamps | causes crash |
