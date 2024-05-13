@@ -24,12 +24,6 @@ Confirmed broken plugins:
 | NoDelete | "       " |
 
 
-
-
-
-Doesn't work-
-
-CustomUserTags-cuc, CustomTags, Fakeavatar, Betterfolders, ReverseImageSearch, Picturelinks, HideServers, AlwaysAnimate, NoCompression, SquareProfilePics, localpins, PinSettings, SplitMessages, realmoji, stealmoji, systeminfo, messagelogger (buggy), nodelete (buggy) <br>
 ## Plugin guide
 
 > [!IMPORTANT]
