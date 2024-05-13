@@ -7,7 +7,7 @@ Here is an organized guide to get you started with in-depth customization of you
 > If you used [CloudSync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. I simply recommend looking at this guide for new ones you may like, and if a plugin is broken in case you have issues. (list provided below)
 
 > [!NOTE] 
-> There is also a **complete list of compatible themes with Pyoncord** at the bottom of this  guide
+> There is also a **complete list of compatible themes** with Pyoncord at the bottom of this  guide
 
 # Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
