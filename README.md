@@ -1,4 +1,4 @@
-# Pyoncord-guide
+# Pyoncord Documentation
 Here is an organized guide to get you started with in-depth customization of your [Pyoncord](https://github.com/pyoncord/Bunny) install.
 
 > First and foremost, if you are on the [discord server](https://discord.gg/pyoncord), look in the #faq channel for basic info on how to install plugins and/or themes. I wont explain that here, so please make sure you did.
