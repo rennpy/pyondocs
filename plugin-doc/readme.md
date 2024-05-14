@@ -4,12 +4,10 @@
     <summary>Table of Contents</summary>
     
 ___
-1. [Broken plugins](#broken-plugins)
-
-    1.1 [What doesn't work](#what-doesnt-work)
-3. [Plugin guide](#plugin-guide)
-
-   2.1 [Some plugin suggestions](#Some-plugin-suggestions)
+1. [Broken plugins](#broken-plugins) <div>
+    1.1 [What doesn't work](#what-doesnt-work) 
+3. [Plugin guide](#plugin-guide) <div>
+    2.1 [Some plugin suggestions](#Some-plugin-suggestions)
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Plugin name | Issue |
