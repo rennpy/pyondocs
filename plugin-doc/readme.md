@@ -7,7 +7,7 @@ ___
 1. [Broken plugins](##broken-plugins)
     1. [What doesn't work](#what-doesnt-work)
 2. [Plugin guide](#plugin-guide)
-    1. [Manifest Strings]
+    1. [Some plugin suggestions](##some-plugin-suggestions)
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Plugin name | Issue |
@@ -43,6 +43,8 @@ ___
 won't be explained here, so please make sure you did.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
+
+## Some plugin suggestions
 
 The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/). <br>
 All of the above make the **chatbox** not an absolute mess.* <br>
