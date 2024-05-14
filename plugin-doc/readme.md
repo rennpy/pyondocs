@@ -46,7 +46,7 @@ won't be explained here, so please make sure you did.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
-To get the links of the plugins, tap on their names listed below to open them in your browser (then copy the site url)
+To get the links of the plugins, hold on their names listed below to open the copy link prompt
 
 ### Suggested plugins
 
