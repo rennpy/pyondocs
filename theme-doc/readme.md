@@ -30,7 +30,7 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 | [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) | Lyntxrya#7769 |
 | [Catppuccin](https://github.com/catppuccin/vendetta) | (link to all variants) |
 | [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) | Maggie.pi (little of it needs fixing) |
-
+| [Tokyo Nights](https://raw.githubusercontent.com/LuckyJinx13/Public-Themes/main/Tokyo%20Nights.json) | mkultra.waifu |
 ## For theme developers
 
 If you are a theme dev or want to try theme-making, you should look at the [theme docs](https://docs.riichi.tech/) from riichi (kinda outdated) <br>
