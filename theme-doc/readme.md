@@ -6,10 +6,8 @@
 ___
 1. [Theme list](#Theme-list) <div>
    
-2. [For theme developers](#For-theme-developers) 
-   
-2.1 [Some suggestions](#Some-suggestions) <div>
-
+2. [For theme developers](#For-theme-developers) <div>
+   2.1 [Some suggestions](#Some-suggestions) <div>
    2.2 [Additional info](#Additional-info)
 3. [Making themes for Pyoncord](#Making-themes-for-Pyoncord) <div>
    3.1 [Description](#Description) <div>
