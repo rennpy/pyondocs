@@ -35,8 +35,15 @@ Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it,
 If you are a theme dev or want to try theme-making, you should look at the [theme docs](https://docs.riichi.tech/) from riichi (kinda outdated) <br>
 And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpid which is used to find new strings, semantic keys, raw colours and other strings along with icons discord changes or adds <br>
 
-## Some suggestions
-You should also join the discord if you haven't already and ask in #theme-dev if you need help with anything.
+### Some suggestions
+You should join the discord if you haven't already and ask in #theme-dev if you need help with anything.
+
+Making your first theme might be a little stressful; take some breaks. 
+
+There currently isnt a theme channel where you can publish anything you make, but once that is possible, reach out to cbani (me) on the discord to make your submission. Do it via dms!
+
+As for any already established theme-devs, keep me up to date with your themes, or even make a pull request to add/delete some of your themes. I am open to improving this documentation as much as possible for the benefit of all pyoncord developers.
+
 
 
 
