@@ -246,4 +246,5 @@ And finally, at the end of the file is where you put the background (if needed);
         "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
     },
 ```
+> I recommend uploading the background used directly within your theme's repo and copy the raw url
 Make sure to close it like this
