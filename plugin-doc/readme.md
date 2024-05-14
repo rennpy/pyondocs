@@ -4,9 +4,9 @@
     <summary>Table of Contents</summary>
     
 ___
-1. [Broken plugins](##Broken-plugins)
-    1. [Creating a Simple Theme](#creating-a-simple-theme)
-2. [Main Strings](#main-strings)
+1. [Broken plugins](##broken-plugins)
+    1. [What doesn't work](#what-doesnt-work)
+2. [Plugin guide](#plugin-guide)
     1. [Manifest Strings]
 
 ## Broken plugins
