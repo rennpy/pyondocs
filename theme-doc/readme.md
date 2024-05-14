@@ -10,7 +10,13 @@ ___
 2.1 [Some suggestions](#Some-suggestions) <div>
 
    2.2 [Additional info](#Additional-info)
-3. [Making themes for Pyoncord](#Making-themes-for-Pyoncord)
+3. [Making themes for Pyoncord](#Making-themes-for-Pyoncord) <div>
+   3.1 [Description](#Description) <div>
+   3.2 [Semantic colors](#Semantic-colors) <div>
+   3.3 [Raw colors](#Raw-colors) <div>
+   3.4 [Background](#Background) <div>
+
+
 ___
 </details>
 
@@ -60,6 +66,8 @@ This section will cover every aspect of a theme, and how you can make one yourse
 
 First, here is a complete overview of a .json theme file, this one being for Pyontheme. 
 
+### Description
+
 This is how the beginning section looks;
 
 ```json
@@ -75,6 +83,8 @@ This is how the beginning section looks;
    
 ```
 As you can see, this is where you put your theme's name, description and author(s). Pretty simple, right?
+
+### Semantic colors
 
 The following strings go over the semantic, or main colors;
 ```json
@@ -194,6 +204,8 @@ The following strings go over the semantic, or main colors;
 
 This is where you will put all of the different hex colors. I recommend using image to hex converters for the best level of accuracy.
 
+### Raw colors
+
 After that follows the raw colors.
 It can be a little trickier to figure out what they change, but they are also fairly important.
 ```json
@@ -226,6 +238,8 @@ It can be a little trickier to figure out what they change, but they are also fa
 
  },
 ```
+
+### Background
 
 And finally, at the end of the file is where you put the background (if needed);
 
