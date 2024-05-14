@@ -91,7 +91,7 @@ The rest of these dont matter as much, but I'll still list them here, since you 
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
-If you want brainrot you can use 
+If you want brainrot you can use;
 | Plugin name | Description |
 | --------- | :----------------------- |
 | [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/) | Lets you review users (for better or worse |
