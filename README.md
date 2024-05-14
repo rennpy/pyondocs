@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/rennpy/pyondocs/assets/158360149/9fd65304-3e20-499e-a90e-48155dcf19c0" alt="Bunny logo" width="200px" style="border-radius: 80%" /> 
+  <img src="https://github.com/rennpy/pyondocs/assets/158360149/9fd65304-3e20-499e-a90e-48155dcf19c0" alt="Bunny logo" width="200px" style="border-radius: 20%" /> 
 
 # [Pyoncord](https://github.com/pyoncord/Bunny)  Documentation 
 
