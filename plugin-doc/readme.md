@@ -5,7 +5,6 @@
     
 ___
 1. [Broken plugins](#broken-plugins) <div>
-   1.1 [What doesn't work](#what-doesnt-work)
    
 2. [Plugin guide](#plugin-guide) <div>
   2.1 [Some plugin suggestions](#Some-plugin-suggestions)
