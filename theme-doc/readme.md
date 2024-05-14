@@ -23,6 +23,8 @@ You can be sure it will always work for most recent versions of Pyoncord, natura
 
 Here is a link to the [github page](https://github.com/rennpy/pyontheme) for it, which includes a preview.
 
+To get the links of the themes, hold on their names listed below to open the copy link prompt
+
 ## Theme list
 | Theme name & link | Author |
 | --------- | :----------------------- |
