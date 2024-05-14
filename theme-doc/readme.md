@@ -70,7 +70,7 @@ First, here is an example of a .json theme file, this one being for Pyontheme. T
         }
    
 ```
-As you can see, this is where you put your name, description and author(s). Pretty simple, right?
+As you can see, this is where you put your theme's name, description and author(s). Pretty simple, right?
 
 
 
