@@ -36,7 +36,7 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 ___
 </details>
 
-# Plugin guide
+## Plugin guide
 
 > [!IMPORTANT]
 > If you used [CloudSync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. It is simply recommended looking at this guide for new ones you may like, and if a plugin is broken in case you have issues. (list provided above)
@@ -46,7 +46,7 @@ won't be explained here, so please make sure you did.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
-## Suggested plugins
+### Suggested plugins
 
 | Plugin name | Description |
 | --------- | :----------------------- |
@@ -75,7 +75,7 @@ Lastly, for **better privacy**, I recommend another set of plugins;
 | [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) | Hides typing |
 | [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/) | Generates random file names for anything you upload |
 
-## Additional plugins
+### Additional plugins
 
 The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
 
