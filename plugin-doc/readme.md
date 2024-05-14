@@ -9,6 +9,7 @@ ___
    
 2. [Plugin guide](#plugin-guide) <div>
   2.1 [Some plugin suggestions](#Some-plugin-suggestions)
+   2.3 [Additional Plugins](#Additional-Plugins)
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Plugin name | Issue |
