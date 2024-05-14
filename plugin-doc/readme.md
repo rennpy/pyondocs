@@ -77,7 +77,7 @@ Lastly, for **better privacy**, I recommend another set of plugins;
 
 ### Additional plugins
 
-The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
+The rest of these dont matter as much, but I'll still list them here, since you *may* find something you like.
 
 **FREE nitro** stuff;
 | Plugin name | Description |
