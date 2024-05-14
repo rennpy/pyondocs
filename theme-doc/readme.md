@@ -240,7 +240,7 @@ It can be a little trickier to figure out what they change, but they are also fa
 
 And finally, at the end of the file is where you put the background (if needed);
 
-> I recommend uploading the background used directly within your theme's repo and copy the raw url
+> I recommend uploading the background used directly to your theme's repo and copy the raw url
 
 ```json
 "background": {
