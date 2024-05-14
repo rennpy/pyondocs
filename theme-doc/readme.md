@@ -79,7 +79,6 @@ This is how the beginning section looks;
             "id": "650805815623680030"
         }
      ],
-   
 ```
 As you can see, this is where you put your theme's name, description and author(s). Pretty simple, right?
 
