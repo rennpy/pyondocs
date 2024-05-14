@@ -1,5 +1,17 @@
 ## Theme guide 
 
+<details>
+    <summary>Table of Contents</summary>
+    
+___
+1. [Theme list](#Theme-list) <div>
+   1.1 [What doesn't work](#what-doesnt-work)
+   
+2. [Plugin guide](#plugin-guide) <div>
+  2.1 [Some plugin suggestions](#Some-plugin-suggestions)
+
+    2.2 [Additional Plugins](#Additional-Plugins)
+
 Here you can find most of the themes working with Pyoncord (more will be added in the future) and some quick links for theme developers.
 
 If this is your first time using a client mod, I suggest that you try [Pyontheme](https://raw.githubusercontent.com/rennpy/pyontheme/main/pyontheme.json) (honestly, this is my guide so I can showcase what I want 🚎) <br>
