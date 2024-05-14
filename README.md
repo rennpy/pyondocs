@@ -3,6 +3,7 @@
 # [Pyoncord](https://github.com/pyoncord/Bunny)  Documentation 
 
  [![Discord](https://img.shields.io/discord/1196075698301968455?style=social&logo=discord&label=Pyoncord)](https://discord.gg/XjYgWXHb9Q)
+
 Everything plugin and theme related, regular users and developers alike 
 
 
