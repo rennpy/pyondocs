@@ -54,7 +54,7 @@ Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this.
 | [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) | Hides the app cmds button |
 | [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/) | Hides the voice message button |
 | [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.github.io/VendettaPlugins/ChatboxAvatar/) | For a pfp and easy way to your profile within the chatbox |
-| All of the above make the **chatbox** not an absolute mess.* | *(I'm looking at you, discord) |
+| All of the above make the **chatbox** not an absolute mess. | (I'm looking at you, discord) |
 
 > preview of the result (with chatbox avatar) and custom iconpack
 
