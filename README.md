@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/bunny_logo.png" alt="Bunny logo" width="200px" style="border-radius: 20%" /> 
+  <img src="bunny_logo.png" alt="Bunny logo" width="200px" style="border-radius: 20%" /> 
 
 # [Pyoncord](https://github.com/pyoncord/Bunny)  Documentation 
 
