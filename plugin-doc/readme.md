@@ -7,7 +7,7 @@ ___
 1. [Broken plugins](#broken-plugins) <div>
    
 2. [Plugin guide](#plugin-guide) <div>
-  2.1 [Some plugin suggestions](#Some-plugin-suggestions)
+  2.1 [Suggested plugins](#Suggested-plugins)
 
     2.2 [Additional Plugins](#Additional-Plugins)
 ## Broken plugins
@@ -46,7 +46,7 @@ won't be explained here, so please make sure you did.
 
 Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this. 
 
-## Some plugin suggestions
+## Suggested plugins
 
 | Plugin name | Description |
 | --------- | :----------------------- |
