@@ -4,7 +4,7 @@
     <summary>Table of Contents</summary>
     
 ___
-1. [Theme list](#Theme-list) <div>
+#1 [Theme list](#Theme-list) <div>
    
 2. [For theme developers](#For-theme-developers) <div> 
    2.1 [Some suggestions](#Some-suggestions) <div>
