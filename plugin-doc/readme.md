@@ -69,6 +69,8 @@ Next up, [themes+](https://vd-plugins.github.io/proxy/fres621.github.io/vendetta
 <img src="https://github.com/rennpy/pyonguide/assets/158360149/62a13fd6-0e66-429c-8c5b-9da65635c1a6" width="200" height="350"> <br>
 
 Lastly, for **better privacy**, I recommend another set of plugins;
+| Plugin name | Description |
+| --------- | :----------------------- |
 | [CleanUrls](https://vd-plugins.github.io/proxy/vendetta.nexpid/.xyz/clean-urls/) | Cleans tracking garbage from discord links |
 | [HideTyping](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/no-typing/) | Hides typing |
 | [AnonymousFileNames](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/AnonymousFileNames/) | Generates random file names for anything you upload |
@@ -77,9 +79,15 @@ Lastly, for **better privacy**, I recommend another set of plugins;
 
 The rest of these dont matter as much, but I'll still list them here, since you may find something you like.
 
-**FREE nitro** stuff which is 
-[Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/) 
-[Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/), [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/), [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/), [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) and [Decor](https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/)
+**FREE nitro** stuff;
+| Plugin name | Description |
+| --------- | :----------------------- |
+| [Realmoji](https://vd-plugins.github.io/proxy/redstonekasi.github.io/vendetta-plugins/realmoji/) | Makes Freemoji look like actual emojis (not low quality pngs) |
+| [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/) | Makes you able to use emojis without nitro (uses embed)
+| [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/) | Same as Freemoji but for stickers |
+| [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) | Free nitro only app icons |
+| [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) | Free profile colors only you can see using special code |
+| [Decor](https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/) | Free custom avatar decorations (no nitro ones) |
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
 
