@@ -193,7 +193,7 @@ The following strings go over the semantic, or main colors;
 
 This is where you will put all of the different hex colors. I recommend using image to hex converters for the best level of accuracy.
 
-After that follows the tertiary colors;
+After that follows the raw colors;
 ```json
     "rawColors": {
         "PRIMARY_500": "#9E8376",
