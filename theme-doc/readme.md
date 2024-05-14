@@ -38,7 +38,9 @@ And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpi
 ### Some suggestions
 You should join the discord if you haven't already and ask in #theme-dev if you need help with anything.
 
-Making your first theme might be a little stressful; take some breaks. 
+Making your first theme might be a little stressful; take some breaks.
+
+### Additional info
 
 There currently isnt a theme channel where you can publish anything you make, but once that is possible, reach out to cbani (me) on the discord to make your submission. Do it via dms!
 
