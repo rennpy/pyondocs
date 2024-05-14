@@ -86,7 +86,6 @@ As you can see, this is where you put your theme's name, description and author(
 
 The following strings go over the semantic, or main colors;
 ```json
-    
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#d4d2ff"
