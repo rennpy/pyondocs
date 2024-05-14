@@ -97,5 +97,5 @@ If you want brainrot you can use;
 | Plugin name | Description |
 | --------- | :----------------------- |
 | [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/) | Lets you review users (for better or worse) |
-| [UwUify](https://vd-plugins.github.io/proxy/exhq.github.io/vendetta/uwuify/) | twansfowm text to something wike this using a command! (⑅˘꒳˘) | 
-| [MessageLogger](https://angelix1.github.io/VP/message_logger/) | **buggy** message logger (to stalk people) |
+| [UwUify](https://vd-plugins.github.io/proxy/exhq.github.io/vendetta/uwuify/) | Twansfowm text to something wike this using a command! (⑅˘꒳˘) | 
+| [MessageLogger](https://angelix1.github.io/VP/message_logger/) | **Buggy** message logger (to stalk people) |
