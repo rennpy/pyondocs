@@ -6,10 +6,10 @@
 ___
 1. [Theme list](#Theme-list) <div>
    
-2. [For developers](#For-developers) <div>
-  2.1 [Some plugin suggestions](#Some-plugin-suggestions)
+2. [For theme developers](#For-theme-developers) <div>
+  2.1 [Some suggestions](#Some-suggestions)
 
-    2.2 [Additional Plugins](#Additional-Plugins)
+    2.2 [Additional info](#Additional-info)
 ___
 </details>
 
