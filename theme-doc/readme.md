@@ -191,4 +191,4 @@ The following strings go over the semantic, or main colors;
     },
    ```
 
-
+This is where you will put all of the different hex colors. I recommend using image to hex converters for the best level of accuracy.
