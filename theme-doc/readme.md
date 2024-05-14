@@ -57,7 +57,7 @@ As for any already established theme-devs, keep me up to date with your themes, 
 
 This section will cover every aspect of a theme, and how you can make one yourself with enough time and effort. 
 
-First, here is an example of a .json theme file, this one being for Pyontheme. This is how it looks;
+First, here is an example of a .json theme file, this one being for Pyontheme. This is how the beginning section looks;
 
 ```json
 {
@@ -70,7 +70,7 @@ First, here is an example of a .json theme file, this one being for Pyontheme. T
         }
    
 ```
-
+As you can see, this is where you put your name, description and author(s). Pretty simple, right?
 
 
 
