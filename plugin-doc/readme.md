@@ -96,6 +96,6 @@ The rest of these dont matter as much, but I'll still list them here, since you 
 If you want brainrot you can use;
 | Plugin name | Description |
 | --------- | :----------------------- |
-| [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/) | Lets you review users (for better or worse |
+| [ReviewDB](https://janisslsm.github.io/vdplugins/ReviewDB/) | Lets you review users (for better or worse) |
 | [UwUify](https://vd-plugins.github.io/proxy/exhq.github.io/vendetta/uwuify/) | twansfowm text to something wike this using a command! (⑅˘꒳˘) | 
 | [MessageLogger](https://angelix1.github.io/VP/message_logger/) | **buggy** message logger (to stalk people) |
