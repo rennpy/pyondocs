@@ -1,4 +1,6 @@
- ![image](https://github.com/rennpy/pyondocs/assets/158360149/aee9a2c7-5b0f-447b-b144-7e944562e73e)
+<div align="center">
+
+  <img src="images/bunny_logo.png" alt="Bunny logo" width="200px" style="border-radius: 20%" />
 
 # [Pyoncord](https://github.com/pyoncord/Bunny)  Documentation 
 
