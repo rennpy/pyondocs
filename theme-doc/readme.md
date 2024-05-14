@@ -226,7 +226,7 @@ It can be a little trickier to figure out what they change, but they are also fa
  },
 ```
 
-And finally,at the end of the file is where you put the background (if needed);
+And finally, at the end of the file is where you put the background (if needed);
 
 ```json
 "background": {
