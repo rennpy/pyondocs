@@ -57,7 +57,9 @@ As for any already established theme-devs, keep me up to date with your themes, 
 
 This section will cover every aspect of a theme, and how you can make one yourself with enough time and effort. 
 
-First, here is a complete overview of a .json theme file, this one being for Pyontheme. This is how the beginning section looks;
+First, here is a complete overview of a .json theme file, this one being for Pyontheme. 
+
+This is how the beginning section looks;
 
 ```json
 {
