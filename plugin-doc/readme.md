@@ -23,9 +23,9 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 | ReverseImageSearch | "       " |
 | HideServers | "       " |
 | AlwaysAnimate | "       " |
-| NoCompression | "       " |
+| NoCompression | "Sends all media as files" |
 | SquareProfilePics | "       " |
-| LocalPins | "       " |
+| LocalPins | "dosen't show up in pinned messages" |
 | PinSettings | "       " |
 | SplitMessages | "       " |
 | RealMoji | "        " |
