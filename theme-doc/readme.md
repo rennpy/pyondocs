@@ -38,7 +38,7 @@ And most importantly [ThemeLings](https://github.com/nexpid/Themelings) by nexpi
 ### Some suggestions
 You should join the discord if you haven't already and ask in #theme-dev if you need help with anything.
 
-Making your first theme might be a little stressful; take some breaks.
+Making your first theme might get a little complicated; take some breaks.
 
 ### Additional info
 
