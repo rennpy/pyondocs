@@ -32,7 +32,7 @@ To get the raw links of the themes, hold on their names listed below to open the
 | [Eye Candy](https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Vendetta/Eye_candy.json)  | Moodle |
 | [RosieBlue](https://raw.githubusercontent.com/Moodzz1/DT/main/Vendetta/RosieBlue.json) | Moodle |
 | [RosieDark](https://raw.githubusercontent.com/Rairof/Discord-Theme/main/RosieDark.json) | Rairof |
-| [Tokyo Nights](https://raw.githubusercontent.com/LuckyJinx13/Public-Themes/main/Tokyo%20Nights.json) | mkultra.waifu |
+| [Tokyo Nights](https://raw.githubusercontent.com/LuckyJinx13/Public-Themes/main/Tokyo%20Nights.json) | Mkultra.waifu |
 | [Atherion 2.0](https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/main/Aetherion-Vendetta.json) | Lyntxrya#7769 |
 | [Catppuccin](https://github.com/catppuccin/vendetta) | (link to all variants) |
 | [Maggie's purple](https://raw.githubusercontent.com/maggster165/vendettathemes/main/maggiespurple.json) | Maggie.pi (little of it needs fixing) |
