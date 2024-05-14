@@ -192,3 +192,35 @@ The following strings go over the semantic, or main colors;
    ```
 
 This is where you will put all of the different hex colors. I recommend using image to hex converters for the best level of accuracy.
+
+After that follows the tertiary colors;
+```json
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#e0deff",
+        "PRIMARY_200": "#d0cfef",
+        "PRIMARY_300": "#5e5b8e",
+        "PRIMARY_360": "#8884cc",
+        "PRIMARY_400": "#8884cc",
+        "PRIMARY_600": "#161621",
+        "PRIMARY_630": "#161621",
+        "PRIMARY_660": "#161621",
+        "PRIMARY_700": "#161621",
+        "PRIMARY_800": "#161621",
+        "BLACK_500": "#000000B2",
+        "BRAND_260": "#5e5b8e",
+        "BRAND_360": "#a5a0f1",
+        "BRAND_500": "#8884cc",
+        "BRAND_560": "#8884cc",
+        "YELLOW_300": "#a5a0f1",
+        "GREEN_600": "#e0deff",
+        "RED_400": "#938edc",
+        "WHITE_500": "#e0deff",
+        "GREEN_360": "#605d91",
+        "PLUM_20": "#212034",
+        "PLUM_17": "#26273b",
+        "PLUM_13": "#26273b",
+        "PLUM_16": "#2d2c48"
+
+ },
+```
