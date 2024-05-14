@@ -74,7 +74,120 @@ This is how the beginning section looks;
 ```
 As you can see, this is where you put your theme's name, description and author(s). Pretty simple, right?
 
+The following strings go over the semantic, or main colors;
+```json
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d4d2ff"
+        ],
+        "HEADER_SECONDARY": [
+            "#6460af"
+        ],
+        "TEXT_NORMAL": [
+            "#e0deff"
+        ],
+        "TEXT_MUTED": [
+            "#c1c0df"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#6460af"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#403e6f"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#e0deff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#bbbad6"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#212034"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2b2a3b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#26253b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#26253b"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2d2c48"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2d2c48"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#0f0e18"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2d2c48"
+        ],
 
-
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#26253b"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#26253b"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2d2c48"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2d2c48"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2d2c48"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#6b68a3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#6b68a3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#26273b"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#5e5b8e"
+        ],
+        "TEXT_LINK": [
+            "#6b68a3"
+        ],
+        "TEXT_DANGER": [
+            "#6b68a3"
+        ],
+        "KEYBOARD": [
+            "#161621"
+        ],
+        "BG_BACKDROP": [
+            "#000000B2"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#26273b"
+        ],
+        "CHANNEL_ICON": [
+            "#e0deff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#161621"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#2d2c48"
+        ]
+    },
+   ```
 
 
