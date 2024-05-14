@@ -42,7 +42,7 @@ Making your first theme might be a little stressful; take some breaks.
 
 ### Additional info
 
-There currently isnt a theme channel where you can publish anything you make, but once that is possible, reach out to cbani (me) on the discord to make your submission. Do it via dms!
+There currently isnt a theme channel yet where you could publish anything you make, but once that is the case, reach out to cbani (me) on the discord to make your submission. Do it via dms!
 
 As for any already established theme-devs, keep me up to date with your themes, or even make a pull request to add/delete some of your themes. I am open to improving this documentation as much as possible for the benefit of all pyoncord developers.
 
