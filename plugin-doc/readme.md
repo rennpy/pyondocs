@@ -86,7 +86,7 @@ The rest of these dont matter as much, but I'll still list them here, since you 
 | [Freemoji](https://vd-plugins.github.io/proxy/maisymoe.github.io/strife/Freemoji/) | Makes you able to use emojis without nitro (uses embed)
 | [Freestickers](https://vd-plugins.github.io/proxy/aliernfrog.github.io/vd-plugins/FreeStickers/) | Same as Freemoji but for stickers |
 | [Freecons](https://vd-plugins.github.io/proxy/dziurwa14.github.io/vendetta-plugins/Freecons/) | Free nitro only app icons |
-| [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) | Free profile colors only you can see using special code |
+| [FreeProfileColors](https://vd-plugins.github.io/proxy/twnlink.github.io/vendetta-plugins/FreeProfileColors/) | Free profile colors only you can see using special code in bio |
 | [Decor](https://vd-plugins.github.io/proxy/decor-discord.github.io/vendetta-plugin/) | Free custom avatar decorations (no nitro ones) |
 
 ![image](https://github.com/rennpy/pyonguide/assets/158360149/f21f4185-6fb0-4324-bff4-852bb72a66aa)
