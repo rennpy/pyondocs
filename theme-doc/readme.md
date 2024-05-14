@@ -5,12 +5,13 @@
     
 ___
 1. [Theme list](#Theme-list) <div>
-   1.1 [What doesn't work](#what-doesnt-work)
    
-2. [Plugin guide](#plugin-guide) <div>
+2. [For developers](#For-developers) <div>
   2.1 [Some plugin suggestions](#Some-plugin-suggestions)
 
     2.2 [Additional Plugins](#Additional-Plugins)
+___
+</details>
 
 Here you can find most of the themes working with Pyoncord (more will be added in the future) and some quick links for theme developers.
 
