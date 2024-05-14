@@ -53,8 +53,15 @@ There currently isnt a channel for publishing themes yet, but once that is the c
 
 As for any already established theme-devs, keep me up to date with your themes, or even make a pull request to add/delete some of your themes to the list. I am open to improving this documentation as much as possible for the benefit of all pyoncord developers.
 
+## Making themes for Pyoncord
 
+This section will cover every aspect of a theme, and how you can make one yourself with enough time and effort. 
 
+First, here is an example of a json theme file, this one being for Pyontheme. This is how it looks;
+
+```json
+
+```
 
 
 
