@@ -226,11 +226,12 @@ It can be a little trickier to figure out what they change, but they are also fa
  },
 ```
 
-And finally,at the end of the file is where you put the background (if needed)
-Make sure to close it like this;
+And finally,at the end of the file is where you put the background (if needed);
+
 ```json
 "background": {
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
     },
 ```
+Make sure to close it like this
