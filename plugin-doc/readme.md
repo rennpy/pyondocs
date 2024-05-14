@@ -31,7 +31,8 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 | SystemInfo | "       " |
 | MessageLogger | Buggy |
 | NoDelete | "       " |
-
+___
+</details>
 
 ## Plugin guide
 
