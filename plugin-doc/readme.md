@@ -1,5 +1,14 @@
 # Plugin Documentation
 
+<details>
+    <summary>Table of Contents</summary>
+    
+___
+1. [Broken plugins](##Broken-plugins)
+    1. [Creating a Simple Theme](#creating-a-simple-theme)
+2. [Main Strings](#main-strings)
+    1. [Manifest Strings]
+
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Plugin name | Issue |
