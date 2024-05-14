@@ -70,13 +70,14 @@ This is how the beginning section looks;
             "name": "rennpy",
             "id": "650805815623680030"
         }
+     ],
    
 ```
 As you can see, this is where you put your theme's name, description and author(s). Pretty simple, right?
 
 The following strings go over the semantic, or main colors;
 ```json
-    ],
+    
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#d4d2ff"
