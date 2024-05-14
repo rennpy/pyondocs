@@ -48,9 +48,13 @@ Use the [plugin web browser](https://vd-plugins.github.io/web/#) for this.
 
 ## Some plugin suggestions
 
-The first batch is [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/), [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) (optionally) and [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/). <br>
+| Plugin name | Description |
+| --------- | :----------------------- |
+| [HideGiftButton](https://vd-plugins.github.io/proxy/amsyarasyiq.github.io/letup/HideGiftButton/) | Hides the gift button |
+| [HideAppButton](https://rico040.github.io/bunny-plugins/hideappbutton/) | Hides the app cmds button |
+| [HideVoiceButton](https://aliernfrog.github.io/vd-plugins/HideVoiceButton/) | Hides the voice message button |
+| [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.github.io/VendettaPlugins/ChatboxAvatar/) | For a pfp and easy way to your profile within the chatbox |
 All of the above make the **chatbox** not an absolute mess.* <br>
-You can also add [ChatboxAvatar](https://vd-plugins.github.io/proxy/cynosphere.github.io/VendettaPlugins/ChatboxAvatar/) for a pfp and easy way to your profile within the chatbox.
 
 > preview of the result (with chatbox avatar) and custom iconpack
 
