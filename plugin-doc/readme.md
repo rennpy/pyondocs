@@ -36,7 +36,7 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 ___
 </details>
 
-## Plugin guide
+# Plugin guide
 
 > [!IMPORTANT]
 > If you used [CloudSync](https://vd-plugins.github.io/proxy/vendetta.nexpid.xyz/cloud-sync/) on Vendetta, you should reinstall it and import your plugins. It is simply recommended looking at this guide for new ones you may like, and if a plugin is broken in case you have issues. (list provided above)
