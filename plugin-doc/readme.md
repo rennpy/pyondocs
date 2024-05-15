@@ -10,6 +10,7 @@ ___
   2.1 [Suggested plugins](#Suggested-plugins)
 
     2.2 [Additional Plugins](#Additional-Plugins)
+   </details>
 ## Broken plugins
 This is an extensive list of every plugin from Vendetta you should uninstall (sob).
 | Plugin name | Issue |
@@ -34,7 +35,7 @@ This is an extensive list of every plugin from Vendetta you should uninstall (so
 | MessageLogger | Buggy |
 | NoDelete | "       " |
 ___
-</details>
+
 
 ## Plugin guide
 
